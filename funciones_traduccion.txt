@@ -1,0 +1,5 @@
+fetch -> obtener
+load -> cargar
+map_rockets -> mapear_cohetes
+clean_data -> limpiar_datos
+make_df -> crear_dataframe

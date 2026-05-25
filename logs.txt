@@ -1,0 +1,192 @@
+[2026-05-25 17:53:12] Starting extract process
+[2026-05-25 17:53:12] Fetching URL: https://api.spacexdata.com/v5/launches
+[2026-05-25 17:53:13] Fetching URL: https://api.spacexdata.com/v4/rockets
+[2026-05-25 17:53:13] Mapping rocket IDs to rocket names
+[2026-05-25 17:53:13] Extract process finished
+[2026-05-25 17:53:13] Starting transform process
+[2026-05-25 17:53:13] Cleaning 205 launches
+[2026-05-25 17:53:13] Building DataFrame from cleaned data
+[2026-05-25 17:53:13] Transform process finished
+[2026-05-25 17:53:13] Starting load process
+[2026-05-25 17:53:13] Load process finished: data saved to data/spacex_launches.csv
+[2026-05-25 17:53:13] Starting analyst process
+[2026-05-25 17:53:13] Calculating overall success rate
+[2026-05-25 17:53:13] Calculating success rate by year
+[2026-05-25 17:53:13] Plotting success rate by year
+[2026-05-25 17:54:02] Calculating launches per year
+[2026-05-25 17:54:02] Plotting launches per year
+[2026-05-25 17:54:16] Calculating success rate by rocket
+[2026-05-25 17:54:16] Plotting success rate by rocket
+[2026-05-25 17:54:46] Analyst process finished
+[2026-05-25 18:29:06] Starting extract process
+[2026-05-25 18:29:06] Fetching URL: https://api.spacexdata.com/v5/launches
+[2026-05-25 18:29:07] Fetching URL: https://api.spacexdata.com/v4/rockets
+[2026-05-25 18:29:08] Mapping rocket IDs to rocket names
+[2026-05-25 18:29:08] Extract process finished
+[2026-05-25 18:29:08] Starting transform process
+[2026-05-25 18:29:08] Cleaning 205 launches
+[2026-05-25 18:29:08] Building DataFrame from cleaned data
+[2026-05-25 18:29:08] Transform process finished
+[2026-05-25 18:29:08] Starting load process
+[2026-05-25 18:29:08] Load process finished: data saved to data/spacex_launches.csv
+[2026-05-25 18:29:08] Starting analyst process
+[2026-05-25 18:29:08] Calculating overall success rate
+[2026-05-25 18:29:08] Calculating success rate by year
+[2026-05-25 18:29:08] Plotting success rate by year
+[2026-05-25 18:29:10] Calculating launches per year
+[2026-05-25 18:29:10] Plotting launches per year
+[2026-05-25 18:29:11] Calculating success rate by rocket
+[2026-05-25 18:29:11] Plotting success rate by rocket
+[2026-05-25 18:29:12] Analyst process finished
+[2026-05-25 18:32:43] Starting extract process
+[2026-05-25 18:32:43] Fetching URL: https://api.spacexdata.com/v5/launches
+[2026-05-25 18:32:44] Fetching URL: https://api.spacexdata.com/v4/rockets
+[2026-05-25 18:32:44] Mapping rocket IDs to rocket names
+[2026-05-25 18:32:44] Extract process finished
+[2026-05-25 18:32:44] Starting transform process
+[2026-05-25 18:32:44] Cleaning 205 launches
+[2026-05-25 18:32:44] Building DataFrame from cleaned data
+[2026-05-25 18:32:44] Transform process finished
+[2026-05-25 18:32:44] Starting load process
+[2026-05-25 18:32:44] Load process finished: data saved to data/spacex_launches.csv
+[2026-05-25 18:32:44] Starting analyst process
+[2026-05-25 18:32:44] Calculating overall success rate
+[2026-05-25 18:32:44] Calculating success rate by year
+[2026-05-25 18:32:44] Plotting success rate by year
+[2026-05-25 18:32:47] Calculating launches per year
+[2026-05-25 18:32:47] Plotting launches per year
+[2026-05-25 18:32:49] Calculating success rate by rocket
+[2026-05-25 18:32:49] Plotting success rate by rocket
+[2026-05-25 18:32:51] Analyst process finished
+[2026-05-25 18:34:04] Starting extract process
+[2026-05-25 18:34:04] Fetching URL: https://api.spacexdata.com/v5/launches
+[2026-05-25 18:34:05] Fetching URL: https://api.spacexdata.com/v4/rockets
+[2026-05-25 18:34:06] Mapping rocket IDs to rocket names
+[2026-05-25 18:34:06] Extract process finished
+[2026-05-25 18:34:06] Starting transform process
+[2026-05-25 18:34:06] Cleaning 205 launches
+[2026-05-25 18:34:06] Building DataFrame from cleaned data
+[2026-05-25 18:34:06] Transform process finished
+[2026-05-25 18:34:06] Starting load process
+[2026-05-25 18:34:06] Load process finished: data saved to data/spacex_launches.csv
+[2026-05-25 18:34:06] Starting analyst process
+[2026-05-25 18:34:06] Calculating overall success rate
+[2026-05-25 18:34:06] Calculating success rate by year
+[2026-05-25 18:34:06] Plotting success rate by year
+[2026-05-25 18:34:12] Calculating launches per year
+[2026-05-25 18:34:12] Plotting launches per year
+[2026-05-25 18:34:13] Calculating success rate by rocket
+[2026-05-25 18:34:13] Plotting success rate by rocket
+[2026-05-25 18:34:14] Analyst process finished
+[2026-05-25 18:36:25] Starting extract process
+[2026-05-25 18:36:25] Fetching URL: https://api.spacexdata.com/v5/launches
+[2026-05-25 18:36:27] Fetching URL: https://api.spacexdata.com/v4/rockets
+[2026-05-25 18:36:27] Mapping rocket IDs to rocket names
+[2026-05-25 18:36:27] Extract process finished
+[2026-05-25 18:36:27] Starting transform process
+[2026-05-25 18:36:27] Cleaning 205 launches
+[2026-05-25 18:36:27] Building DataFrame from cleaned data
+[2026-05-25 18:36:27] Transform process finished
+[2026-05-25 18:36:27] Starting load process
+[2026-05-25 18:36:27] Load process finished: data saved to data/spacex_launches.csv
+[2026-05-25 18:36:27] Starting analyst process
+[2026-05-25 18:36:27] Calculating overall success rate
+[2026-05-25 18:36:27] Calculating success rate by year
+[2026-05-25 18:36:27] Plotting success rate by year
+[2026-05-25 18:36:29] Calculating launches per year
+[2026-05-25 18:36:29] Plotting launches per year
+[2026-05-25 18:36:30] Calculating success rate by rocket
+[2026-05-25 18:36:30] Plotting success rate by rocket
+[2026-05-25 18:36:31] Analyst process finished
+[2026-05-25 18:39:27] Starting extract process
+[2026-05-25 18:39:27] Fetching URL: https://api.spacexdata.com/v5/launches
+[2026-05-25 18:39:28] Fetching URL: https://api.spacexdata.com/v4/rockets
+[2026-05-25 18:39:29] Mapping rocket IDs to rocket names
+[2026-05-25 18:39:29] Extract process finished
+[2026-05-25 18:39:29] Starting transform process
+[2026-05-25 18:39:29] Cleaning 205 launches
+[2026-05-25 18:39:29] Building DataFrame from cleaned data
+[2026-05-25 18:39:29] Transform process finished
+[2026-05-25 18:39:29] Starting load process
+[2026-05-25 18:39:29] Load process finished: data saved to data/spacex_launches.csv
+[2026-05-25 18:39:29] Starting analyst process
+[2026-05-25 18:39:29] Calculating overall success rate
+[2026-05-25 18:39:29] Calculating success rate by year
+[2026-05-25 18:39:29] Plotting success rate by year
+[2026-05-25 18:39:31] Calculating launches per year
+[2026-05-25 18:39:31] Plotting launches per year
+[2026-05-25 18:39:32] Calculating success rate by rocket
+[2026-05-25 18:39:32] Plotting success rate by rocket
+[2026-05-25 18:39:33] Analyst process finished
+[2026-05-25 18:40:52] Starting extract process
+[2026-05-25 18:40:52] Fetching URL: https://api.spacexdata.com/v5/launches
+[2026-05-25 18:40:53] Fetching URL: https://api.spacexdata.com/v4/rockets
+[2026-05-25 18:40:54] Mapping rocket IDs to rocket names
+[2026-05-25 18:40:54] Extract process finished
+[2026-05-25 18:40:54] Starting transform process
+[2026-05-25 18:40:54] Cleaning 205 launches
+[2026-05-25 18:40:54] Building DataFrame from cleaned data
+[2026-05-25 18:40:54] Transform process finished
+[2026-05-25 18:40:54] Starting load process
+[2026-05-25 18:40:54] Starting database save process
+[2026-05-25 18:40:57] Database connection established successfully
+[2026-05-25 18:40:57] Data saved to PostgreSQL database successfully
+[2026-05-25 18:40:57] Database save process finished
+[2026-05-25 18:40:57] Load process finished
+[2026-05-25 18:40:57] Starting analyst process
+[2026-05-25 18:40:57] Calculating overall success rate
+[2026-05-25 18:40:57] Calculating success rate by year
+[2026-05-25 18:40:57] Plotting success rate by year
+[2026-05-25 18:40:59] Calculating launches per year
+[2026-05-25 18:40:59] Plotting launches per year
+[2026-05-25 18:41:00] Calculating success rate by rocket
+[2026-05-25 18:41:00] Plotting success rate by rocket
+[2026-05-25 18:41:01] Analyst process finished
+[2026-05-25 18:41:39] Starting extract process
+[2026-05-25 18:41:39] Fetching URL: https://api.spacexdata.com/v5/launches
+[2026-05-25 18:41:40] Fetching URL: https://api.spacexdata.com/v4/rockets
+[2026-05-25 18:41:40] Mapping rocket IDs to rocket names
+[2026-05-25 18:41:40] Extract process finished
+[2026-05-25 18:41:40] Starting transform process
+[2026-05-25 18:41:40] Cleaning 205 launches
+[2026-05-25 18:41:40] Building DataFrame from cleaned data
+[2026-05-25 18:41:40] Transform process finished
+[2026-05-25 18:41:40] Starting load process
+[2026-05-25 18:41:40] Starting database save process
+[2026-05-25 18:41:41] Database connection established successfully
+[2026-05-25 18:41:41] Data saved to PostgreSQL database successfully
+[2026-05-25 18:41:41] Database save process finished
+[2026-05-25 18:41:41] Load process finished
+[2026-05-25 18:41:41] Starting analyst process
+[2026-05-25 18:41:41] Calculating overall success rate
+[2026-05-25 18:41:41] Calculating success rate by year
+[2026-05-25 18:41:41] Plotting success rate by year
+[2026-05-25 18:41:44] Calculating launches per year
+[2026-05-25 18:41:44] Plotting launches per year
+[2026-05-25 18:41:46] Calculating success rate by rocket
+[2026-05-25 18:41:46] Plotting success rate by rocket
+[2026-05-25 18:41:46] Analyst process finished
+[2026-05-25 19:47:35] Starting extract process
+[2026-05-25 19:47:35] Fetching URL: https://api.spacexdata.com/v5/launches
+[2026-05-25 19:47:38] Fetching URL: https://api.spacexdata.com/v4/rockets
+[2026-05-25 19:47:40] Mapping rocket IDs to rocket names
+[2026-05-25 19:47:40] Extract process finished
+[2026-05-25 19:47:40] Starting transform process
+[2026-05-25 19:47:40] Cleaning 205 launches
+[2026-05-25 19:47:40] Building DataFrame from cleaned data
+[2026-05-25 19:47:40] Transform process finished
+[2026-05-25 19:47:40] Starting load process
+[2026-05-25 19:47:40] Starting database save process
+[2026-05-25 19:47:42] Database connection established successfully
+[2026-05-25 19:47:42] Data saved to PostgreSQL database successfully
+[2026-05-25 19:47:42] Database save process finished
+[2026-05-25 19:47:42] Load process finished
+[2026-05-25 19:47:42] Starting analyst process
+[2026-05-25 19:47:42] Calculating overall success rate
+[2026-05-25 19:47:42] Calculating success rate by year
+[2026-05-25 19:47:42] Plotting success rate by year
+[2026-05-25 19:47:46] Calculating launches per year
+[2026-05-25 19:47:46] Plotting launches per year
+[2026-05-25 19:47:47] Calculating success rate by rocket
+[2026-05-25 19:47:47] Plotting success rate by rocket
+[2026-05-25 19:47:48] Analyst process finished
