@@ -1,3 +1,5 @@
+import matplotlib
+matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from logs import log
 
@@ -29,42 +31,38 @@ def success_rate_by_rocket(df):
 def plot_success_rate_by_year(data):
     log("Plotting success rate by year")
     plt.figure(figsize=(10, 5))
-    plt.plot(
-        data.index,
-        data.values,
-        marker="o"
-    )
+    plt.plot(data.index, data.values, marker="o")
     plt.title("SpaceX Success Rate by Year")
     plt.xlabel("Year")
     plt.ylabel("Success Rate (%)")
     plt.grid(True)
-    plt.show()
+    plt.savefig("data/success_rate_by_year.png", bbox_inches="tight")
+    plt.close()
+    log("Saved data/success_rate_by_year.png")
 
 
 def plot_launches_per_year(data):
     log("Plotting launches per year")
     plt.figure(figsize=(12, 6))
-    plt.bar(
-        data.index,
-        data.values
-    )
+    plt.bar(data.index, data.values)
     plt.title("SpaceX Launches per Year")
     plt.xlabel("Year")
     plt.ylabel("Number of Launches")
     plt.grid(axis="y")
-    plt.show()
+    plt.savefig("data/launches_per_year.png", bbox_inches="tight")
+    plt.close()
+    log("Saved data/launches_per_year.png")
 
 
 def plot_success_rate_by_rocket(data):
     log("Plotting success rate by rocket")
     plt.figure(figsize=(10, 6))
-    plt.bar(
-        data.index,
-        data.values
-    )
+    plt.bar(data.index, data.values)
     plt.title("SpaceX Success Rate by Rocket")
     plt.xlabel("Rocket")
     plt.ylabel("Success Rate (%)")
     plt.ylim(0, 100)
     plt.grid(axis="y")
-    plt.show()
+    plt.savefig("data/success_rate_by_rocket.png", bbox_inches="tight")
+    plt.close()
+    log("Saved data/success_rate_by_rocket.png")
